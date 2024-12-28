@@ -7,7 +7,7 @@ body {
       height: 100vh;
       margin: 0;
       text-align: center;
-      overflow: auto;
+      overflow: hidden;
     }
 
     .container {
